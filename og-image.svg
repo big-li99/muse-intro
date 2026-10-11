@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4f0e6"/>
+  <rect x="60" y="60" width="1080" height="510" rx="24" fill="#fffdf7" stroke="#111" stroke-width="6"/>
+  <rect x="96" y="104" width="330" height="52" rx="26" fill="#8fe3c0" stroke="#111" stroke-width="4"/>
+  <text x="261" y="140" font-family="sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#111">Meta 出品 · Muse Spark</text>
+  <text x="96" y="248" font-family="sans-serif" font-size="64" font-weight="900" fill="#111">Muse 是什么？</text>
+  <text x="96" y="330" font-family="sans-serif" font-size="40" font-weight="bold" fill="#111">会记住你、能主动干活的 AI 管家</text>
+  <rect x="96" y="392" width="560" height="92" rx="14" fill="#ffc900" stroke="#111" stroke-width="4" stroke-dasharray="12 8"/>
+  <text x="376" y="454" font-family="monospace" font-size="48" font-weight="900" text-anchor="middle" fill="#111">邀请码 S84AS7</text>
+  <circle cx="980" cy="420" r="86" fill="#ffc900" stroke="#111" stroke-width="6"/>
+  <circle cx="950" cy="398" r="12" fill="#111"/>
+  <circle cx="1010" cy="398" r="12" fill="#111"/>
+  <path d="M936 452q44 34 88 0" stroke="#111" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>
